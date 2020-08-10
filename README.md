@@ -1,2 +1,2 @@
-# artofdata
-Class website for Art of Data
+# mobileapps
+Class website for Mobile Apps
