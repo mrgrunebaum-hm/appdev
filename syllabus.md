@@ -18,10 +18,10 @@ A very general rubric for the 0-4 grading scale is in the table below. Homework 
 |3|I can do most of this on my own.|
 |4|I can comfortably do this on my own with no help.|
 
-# Discussions
+## Discussions
 Topical readings will be given to supplement the course material. Each reading will include a written response, as well as participation in an in-class discussion. These will be graded on a similar 0-4 scale, details of which will be provided for each discussion. 
 
-# Assessments
+## Assessments: Quizzes and Labs
 Quizzes will only ever cover topics from homeworks or in-class lessons and discussions. They will be given in the middle of each unit.
 
 Labs assess your ability to put into practice the concepts discussed in class and in homework assignments. Most labs will be comprised of one or more steps in the process of designing and creating a mobile app, as well as a corresponding write-up. Labs will be given at the end of each unit. Details will be provided when these assessments are given.
