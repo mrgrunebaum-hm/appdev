@@ -10,7 +10,7 @@ I will occasionally give homework assignments to supplement the in-class materia
 
 Deadlines for these assignments will not be hard and fast but you will find them much more useful if you complete them during their corresponding units, rather than submitting them when we have already moved on to a different topic. These assignments are meant for you to learn and practice. Please refer to [the schedule]({{site.baseurl}}/schedule/) to see the structuring of units in this class. If I notice that you are not keeping up with the homework, I will reach out, followed by a potential discussion with your grade dean.
 
-A very general rubric for the 0-4 grading scale is in the table below. Homework may be [resubmitted](/TODO) at any time for new feedback.
+A very general rubric for the 0-4 grading scale is in the table below. Homework may be [resubmitted](https://forms.gle/P87WvdRmAn8tR4hU7) at any time for new feedback.
 
 |0|I didn't do it.|
 |1|I don't know where to start.|
