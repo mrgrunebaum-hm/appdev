@@ -29,7 +29,7 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Affinity Diagrams]({{site.baseurl}}/units/03/01)
   3. [User Personas and Scenarios]({{site.baseurl}}/units/03/02)
      3. QUIZ on Design Research Methods
-  3. [Storyboarding/Wireframing and Information Architecture]({{site.baseurl}}/units/03/03)
+  3. [Storyboarding, Wireframing, and Information Architecture]({{site.baseurl}}/units/03/03)
   3. [Contextual Inquiry Lab and Preliminary Wireframing]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Lo-Fi Prototyping and Usability Testing
