@@ -20,7 +20,7 @@ You may encounter some symbols. Here is what they mean: <br>
   1. [Fly on the Wall Lab]({{site.baseurl}}/units/01/04/)
 
 ## Unit 2: Introduction to Human Computer Interaction (HCI)
-  2. [Ideation, Teamwork, Brainstorming]({{site.baseurl}}/units/02/01/)
+  2. [Introduction to HCI: Ideation and Teamwork]({{site.baseurl}}/units/02/01/)
   2. [User Experience (UX) Research Methods in HCI]({{site.baseurl}}/units/02/02/)
      2. GRADED HOMEWORK (equivalent to quiz): In groups, refine project idea into a 5-minute pitch and prepare to deliver it as a group.
   2. [Group Project Proposal and Preliminary UX Research Plan]({{site.baseurl}}/units/02/03/)
