@@ -22,14 +22,13 @@ You may encounter some symbols. Here is what they mean: <br>
 ## Unit 2: Introduction to Human Computer Interaction (HCI)
   2. [Individual Project Idea Pitches]({{site.baseurl}}/units/02/01/)
   2. [User Experience (UX) Research Methods in HCI]({{site.baseurl}}/units/02/02/)
-     2. GRADED HOMEWORK (equivalent to quiz): In groups, refine project idea into a 5-minute pitch and prepare to deliver it as a group.
   2. [Group Project Proposal and Preliminary UX Research Plan]({{site.baseurl}}/units/02/03/)
 
 ## Unit 3: Getting Serious About Ideation
-  3. [Affinity Diagrams]({{site.baseurl}}/units/03/01)
-  3. [User Personas and Scenarios]({{site.baseurl}}/units/03/02)
-     3. QUIZ on Design Research Methods
-  3. [Storyboarding, Wireframing, and Information Architecture]({{site.baseurl}}/units/03/03)
+  3. [Team Contracts]({{site.baseurl}}/units/03/01)
+  3. [Group Work & Critiques]({{site.baseurl}}/units/03/02)
+     3. GRADED HOMEWORK (equivalent to quiz): In groups, refine project idea into a 5-minute pitch and prepare to deliver it as a group.
+  3. [Pitches & Critiques]({{site.baseurl}}/units/03/03)
   3. [Contextual Inquiry Lab and Preliminary Wireframing]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Lo-Fi Prototyping and Usability Testing
