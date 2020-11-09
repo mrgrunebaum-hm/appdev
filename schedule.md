@@ -32,17 +32,17 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Contextual Inquiry & Task Analysis Lab]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Lo-Fi Prototyping and Usability Testing
-  4. [User Personas & Scenarios]({{site.baseurl}}/units/04/01/)
-  4. [Affinity Diagraming]({{site.baseurl}}/units/04/02/)
-     1. QUIZ on Usability Testing
-  4. [Storyboarding & Wireframing]({{site.baseurl}}/units/04/03/)
+  4. [Contextual Inquiries and Other Design Research Methods]({{site.baseurl}}/units/04/01/)
+  4. [User Personas & Scenarios]({{site.baseurl}}/units/04/02/)
+     1. QUIZ on Design Research Methods
+  4. [Affinity Diagrams]({{site.baseurl}}/units/04/03/)
   4. [LAB]({{site.baseurl}}/units/04/04/)
 
-## Unit 5: Hi-Fi Prototyping and Graphic Design
-  5. [Usability Testing]({{site.baseurl}}/units/05/01/)
+## Unit 5: Prototyping and Graphic Design
+  5. [Storyboarding & Wireframing]({{site.baseurl}}/units/05/01/)
   5. [Lo-Fi and Hi-Fi Prototyping]({{site.baseurl}}/units/05/02/)
      1. QUIZ on Graphic Design
-  5. [Prototyping Tools and Techniques]({{site.baseurl}}/units/05/03/)
+  5. [Usability Testing]({{site.baseurl}}/units/05/03/)
   5. [Usability Testing Lab]({{site.baseurl}}/units/05/04)
 
 ## Unit 6: Acessibility and Revisiting HCI Ethics
