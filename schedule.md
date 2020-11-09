@@ -29,20 +29,20 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Group Work & Critiques]({{site.baseurl}}/units/03/02)
      1. GRADED HOMEWORK (equivalent to quiz): In groups, refine project idea into a 5-minute pitch and prepare to deliver it as a group.
   3. [Pitches & Critiques]({{site.baseurl}}/units/03/03)
-  3. [Contextual Inquiry Lab and Preliminary Wireframing]({{site.baseurl}}/units/03/04/)
+  3. [Contextual Inquiry & Task Analysis Lab]({{site.baseurl}}/units/03/04/)
 
 ## Unit 4: Lo-Fi Prototyping and Usability Testing
-  4. [What is Usability Testing?]({{site.baseurl}}/units/04/01/)
-  4. [Lo-Fi Prototyping and Testing Methods]({{site.baseurl}}/units/04/02/)
+  4. [User Personas & Scenarios]({{site.baseurl}}/units/04/01/)
+  4. [Affinity Diagraming]({{site.baseurl}}/units/04/02/)
      1. QUIZ on Usability Testing
-  4. [Group Design Presentations and Critiques]({{site.baseurl}}/units/04/03/)
+  4. [Storyboarding & Wireframing]({{site.baseurl}}/units/04/03/)
   4. [LAB]({{site.baseurl}}/units/04/04/)
 
 ## Unit 5: Hi-Fi Prototyping and Graphic Design
-  5. [Graphic Design]({{site.baseurl}}/units/05/01/)
-  5. [Hi-Fi Prototyping and Testing Methods]({{site.baseurl}}/units/05/02/)
+  5. [Usability Testing]({{site.baseurl}}/units/05/01/)
+  5. [Lo-Fi and Hi-Fi Prototyping]({{site.baseurl}}/units/05/02/)
      1. QUIZ on Graphic Design
-  5. [Introduction to InVision]({{site.baseurl}}/units/05/03/)
+  5. [Prototyping Tools and Techniques]({{site.baseurl}}/units/05/03/)
   5. [Usability Testing Lab]({{site.baseurl}}/units/05/04)
 
 ## Unit 6: Acessibility and Revisiting HCI Ethics
