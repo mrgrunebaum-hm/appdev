@@ -36,7 +36,7 @@ You may encounter some symbols. Here is what they mean: <br>
   4. [User Personas & Scenarios]({{site.baseurl}}/units/04/02/)
      1. QUIZ on Design Research Methods
   4. [Affinity Diagrams]({{site.baseurl}}/units/04/03/)
-  4. [LAB]({{site.baseurl}}/units/04/04/)
+  4. [Task Review]({{site.baseurl}}/units/04/04/)
 
 ## Unit 5: Prototyping and Graphic Design
   5. [Storyboarding & Wireframing]({{site.baseurl}}/units/05/01/)
