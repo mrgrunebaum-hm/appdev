@@ -31,7 +31,7 @@ You may encounter some symbols. Here is what they mean: <br>
   3. [Pitches & Critiques]({{site.baseurl}}/units/03/03)
   3. [Contextual Inquiry & Task Analysis Lab]({{site.baseurl}}/units/03/04/)
 
-## Unit 4: Lo-Fi Prototyping and Usability Testing
+## Unit 4: Analyzing and Defining Tasks
   4. [Contextual Inquiries and Other Design Research Methods]({{site.baseurl}}/units/04/01/)
   4. [User Personas & Scenarios]({{site.baseurl}}/units/04/02/)
      1. QUIZ on Design Research Methods
@@ -40,9 +40,9 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 5: Prototyping and Graphic Design
   5. [Storyboarding & Wireframing]({{site.baseurl}}/units/05/01/)
-  5. [Lo-Fi and Hi-Fi Prototyping]({{site.baseurl}}/units/05/02/)
      1. QUIZ on Graphic Design
-  5. [Design Check-In Lab]({{site.baseurl}}/units/05/03)
+  5. [Design Check-In Lab]({{site.baseurl}}/units/05/02)
+  5. [Lo-Fi and Hi-Fi Prototyping]({{site.baseurl}}/units/05/03/)
   5. [Usability Testing]({{site.baseurl}}/units/05/04/)
   5. [Usability Testing Lab]({{site.baseurl}}/units/05/05)
 
