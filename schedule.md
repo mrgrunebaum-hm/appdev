@@ -50,6 +50,6 @@ You may encounter some symbols. Here is what they mean: <br>
   6. [Ethics Case Study: Therac-25]({{site.baseurl}}/units/06/02/)
      1. QUIZ
   6. [HCI Ethics in Practice]({{site.baseurl}}/units/06/03)
-  6. [LAB]({{site.baseurl}}/units/06/04/)
+  6. [User Experience Design Review]({{site.baseurl}}/units/06/04/)
 
 ## Final Project
