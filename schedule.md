@@ -47,9 +47,8 @@ You may encounter some symbols. Here is what they mean: <br>
 
 ## Unit 6: Acessibility and Revisiting HCI Ethics
   6. [Accessibility in Design/Tech]({{site.baseurl}}/units/06/01/)
-  6. [Ethics Case Study: Therac-25]({{site.baseurl}}/units/06/02/)
-     1. QUIZ
-  6. [HCI Ethics in Practice]({{site.baseurl}}/units/06/03)
+  6. [HCI Ethics]({{site.baseurl}}/units/06/02/)
+  6. [Design Manifestos]({{site.baseurl}}/units/06/03)
   6. [User Experience Design Review]({{site.baseurl}}/units/06/04/)
 
 ## Final Project
