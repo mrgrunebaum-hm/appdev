@@ -2,41 +2,33 @@
 layout: base
 title: Syllabus
 ---
-# Assignments
-Coursework in _Mobile Apps_ is comprised of weekly labs, supplementary homework assignments, reading responses / discussions, quizzes, and a final project. This may sound daunting, but keep in mind that each lab will add to the body of work that you will ultimately be presenting as your final project. If you complete the weekly labs in a timely fashion, the only work necessary to complete the final project will be to create a presentation of the work you and your team did this semester. 
+# Overview
+Coursework in _Mobile Apps_ can be divided most neatly into two categories: group and individual work. Group work includes things like labs (mostly related to your yearlong project), smaller homework assignments, and in-class activities. Individual is mostly comprised of quizzes and smaller homework assignments, as well as a smaller scale individual project. If you complete the weekly labs in a timely fashion, the only work necessary to complete the final project will be to nicely package all of the work you did in a professional looking website and create a presentation of you and your teammates' work. 
 
-## Homeworks
-I will occasionally give homework assignments to supplement the in-class material and labs – these will not affect your semester grade but you will receive feedback in the form of a 0-4 score and comments about your work. 
-
-Deadlines for these assignments will not be hard and fast but you will find them much more useful if you complete them during their corresponding units, rather than submitting them when we have already moved on to a different topic. These assignments are meant for you to learn and practice. Please refer to [the schedule]({{site.baseurl}}/schedule/) to see the structuring of units in this class. If I notice that you are not keeping up with the homework, I will reach out, followed by a potential discussion with your grade dean.
-
-A very general rubric for the 0-4 grading scale is in the table below. Homework may be [resubmitted](https://forms.gle/P87WvdRmAn8tR4hU7) at any time for new feedback.
-
-|0|I didn't do it.|
-|1|I don't know where to start.|
-|2|I have a rough idea, but I need a lot of help.|
-|3|I can do most of this on my own.|
-|4|I can comfortably do this on my own with no help.|
+## Class Expectations
+My goal is to build an environment where you feel safe, comfortable, and supported enough to try your best, share your ideas, make mistakes, and learn. We will work together to set classroom norms at the beginning of the year and revisit them as the term progresses. Our vibe will be one of respect, professionalism, and fun!
 
 ## Discussions
-Topical readings will be given to supplement the course material. Each reading will include a written response, as well as participation in an in-class discussion. These will be graded on a similar 0-4 scale, details of which will be provided for each discussion. 
+Topical readings will be given to supplement the course material. Each reading will include a written response (this may take many forms), as well as participation in an in-class discussion. These will be graded on a completion basis. 
 
 ## Assessments: Quizzes and Labs
-Quizzes will only ever cover topics from homeworks or in-class lessons and discussions. They will be given in the middle of each unit.
+Quizzes will only ever cover topics from homeworks or in-class lessons and discussions. They will be given in the middle of each unit and will always be taken _individually_.
 
-Labs assess your ability to put into practice the concepts discussed in class and in homework assignments. Most labs will be comprised of one or more steps in the process of designing and creating a mobile app, as well as a corresponding write-up. Labs will be given at the end of each unit. Details will be provided when these assessments are given.
+Labs assess your ability to put into practice the concepts discussed in class and in homework assignments. Most labs will be comprised of one or more steps ('milestones') in the process of designing and creating a novel app, as well as a corresponding write-up. Labs will be given at the end of each unit, although you may hear about them earlier. Details will be provided when due dates for these assessments are given.
 
-These will be assigned **letter grades**.
+### Retakes and Revisions
+We will often have quiz retakes as a class, but individual retakes are also an option. On any given quiz, only your most recent attempt will count toward your grade.
 
-There are no corrections, except for extenuating circumstances discussed between us and your grade dean.
+Lab revisions are handled on a case-by-case basis.
 
 # Academic Honesty
-Any submitted work by a student should be their own, unless students are collaborating on a group assignment, in which case the work submitted should be a reflection of equal effort of all students involved. Collaboration is encouraged. Feel free to talk with other students! However, during these discussions, _do not write down_ any solutions. Students must always note whom they worked with. Failure to do so will result in an integrity penalty.
+Any submitted work by a student should be their own, unless students are collaborating on a group assignment, in which case the work submitted should be a reflection of equal effort of all students involved. Collaboration is always encouraged – feel free to talk with other students! However, students must always  **cite** who they worked with on final submissions of assignments.
 
-Any form of cheating will result in a **failing grade** and the student’s advisor will be notified for the first offense. Any subsequent offense will result in the student being asked to speak with their class dean. Forms of cheating include but are not limited to: similar / identical writing or code submitted, solutions submitted that are not a student’s own work, submission of fabricated or otherwise unreliable data.
+Any form of cheating will result in a **failing grade** on that particular assignment and the student’s grade dean and advisor will be notified for the first offense. Forms of cheating include but are not limited to: similar / identical writing or code submitted, solutions submitted that are not a student’s own work, submission of fabricated or otherwise unreliable data.
 
+**I would rather you submit something late than something academically dishonest.** If you are ever unsure, reach out to me! I want to help you succeed in this class.
 
 # Semester Grade
-  - Quizzes: 30%
-  - Labs: 50%
-  - Discussions: 20%
+If you complete all of the assigned work for this class, you will earn an excellent grade.
+  - Summative Assessments (labs/project, quizzes, homework): 80%
+  - Discussions (both written and in-class components): 20%
