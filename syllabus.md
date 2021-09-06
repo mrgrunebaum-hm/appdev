@@ -3,7 +3,9 @@ layout: base
 title: Syllabus
 ---
 # Overview
-Coursework in _Mobile Apps_ can be divided most neatly into two categories: group and individual work. Group work includes things like labs (mostly related to your yearlong project), smaller homework assignments, and in-class activities. Individual is mostly comprised of quizzes and smaller homework assignments, as well as a smaller scale individual project. If you complete the weekly labs in a timely fashion, the only work necessary to complete the final submission of your group's yearlong project will be to nicely package all of you and your team's work in a professional looking website and deliver a short presentation of your project to the class. 
+Coursework in _Mobile Apps_ can be divided most neatly into two categories: group and individual work. Group work includes things like labs (mostly related to your yearlong project), smaller homework assignments, and in-class activities. Individual is mostly comprised of quizzes and smaller homework assignments, as well as a smaller scale individual project. 
+
+If you complete the weekly labs in a timely fashion, the only work necessary to complete the final submission of your group's yearlong project will be to nicely package all of you and your team's work in a professional looking website and deliver a short presentation of your project to the class. 
 
 ## Class Expectations
 My goal is to build an environment where you feel safe, comfortable, and supported enough to try your best, share your ideas, make mistakes, and learn. We will work together to set classroom norms at the beginning of the year and revisit them as the term progresses. Our vibe will be one of respect, professionalism, and fun!
