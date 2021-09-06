@@ -24,7 +24,7 @@ Lab revisions are handled on a case-by-case basis.
 # Academic Honesty
 Any submitted work by a student should be their own, unless students are collaborating on a group assignment, in which case the work submitted should be a reflection of equal effort of all students involved. Collaboration is always encouraged – feel free to talk with other students! However, students must always  **cite** who they worked with on final submissions of assignments.
 
-Any form of cheating will result in a **failing grade** on that particular assignment and the student’s grade dean and advisor will be notified for the first offense. Forms of cheating include but are not limited to: similar / identical writing or code submitted, solutions submitted that are not a student’s own work, submission of fabricated or otherwise unreliable data.
+Serious forms of cheating will result in a **failing grade** on that particular assignment and the student’s grade dean and advisor will be notified for the first offense. Forms of cheating include but are not limited to: similar / identical writing or code submitted, solutions submitted that are not a student’s own work, submission of fabricated or otherwise unreliable data.
 
 **I would rather you submit something late than something academically dishonest.** If you are ever unsure, reach out to me! I want to help you succeed in this class.
 
