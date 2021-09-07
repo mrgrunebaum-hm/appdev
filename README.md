@@ -1,2 +1,2 @@
-# mobileapps
-Class website for Mobile Apps
+# appdev
+Class website for App Development
