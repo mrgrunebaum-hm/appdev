@@ -16,7 +16,7 @@ A significant portion of our work in this class will be devoted to discussing an
 ## Assessments: Quizzes and Labs
 Quizzes will only ever cover topics from homeworks or in-class lessons and discussions. They will be given in the middle of each unit and will always be taken _individually_.
 
-Labs assess your ability to put into practice the concepts discussed in class and in homework assignments. Most labs will be comprised of one or more steps ('milestones') in the process of designing and creating a novel app, as well as a corresponding write-up. Labs will be given at the end of each unit, although you may hear about them earlier. Details will be provided when due dates for these assessments are given.
+Labs assess your ability to put into practice the concepts discussed in class and in homework assignments. Most labs will be comprised of one or more steps ('milestones') in the process of designing and creating a novel app, as well as a corresponding write-up. Labs will be given at the end of each unit, although you may hear about them earlier. For most of this year, you will most often work on labs in groups. Details will be provided when due dates for these assessments are given.
 
 ### Retakes and Revisions
 We will often have quiz retakes as a class, but individual retakes are also an option. On any given quiz, only your most recent attempt will count toward your grade.
