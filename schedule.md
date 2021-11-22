@@ -23,10 +23,10 @@ You may encounter some symbols. Here is what they mean: <br>
   2. [Front End Design In-Class Activity]({{site.baseurl}}/units/02/01/)
   2. [Individual Project Idea Pitches]({{site.baseurl}}/units/02/02/)
   2. [User Experience (UX) Research Methods in HCI]({{site.baseurl}}/units/02/03/)
-  2. [Group Project Proposal and Preliminary UX Research Plan]({{site.baseurl}}/units/02/04/)
+  2. [Team Contracts]({{site.baseurl}}/units/02/04)
 
 ## Unit 3: Getting Serious About Ideation
-  3. [Team Contracts]({{site.baseurl}}/units/03/01)
+  3. [Group Project Proposal and Preliminary UX Research Plan]({{site.baseurl}}/units/03/01/)
   3. [Group Work & Critiques]({{site.baseurl}}/units/03/02)
      1. GRADED HOMEWORK (equivalent to quiz): In groups, refine project idea into a 5-minute pitch and prepare to deliver it as a group.
   3. [Pitches & Critiques]({{site.baseurl}}/units/03/03)
