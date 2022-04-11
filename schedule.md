@@ -44,7 +44,8 @@ You may encounter some symbols. Here is what they mean: <br>
   5. [Design Check-In Lab]({{site.baseurl}}/units/05/02/)
   5. [Usability Testing Lab]({{site.baseurl}}/units/05/03/)
   5. [Hi-Fi Prototyping]({{site.baseurl}}/units/05/04/)
-     1. QUIZ on Graphic Design
+     1. QUIZ on Graphic Design (Wednesday, April 13)
+  5. [Graphic Design]({{site.baseurl}}/units/05/05/)
 
 ## Unit 6: Acessibility and Revisiting HCI Ethics
   6. [Accessibility in Design/Tech]({{site.baseurl}}/units/06/01/)
