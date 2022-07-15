@@ -3,7 +3,7 @@ layout: base
 title: Syllabus
 ---
 # Overview
-Coursework in _App Development_ can be divided most neatly into two categories: group and individual work. Group work includes things like labs (mostly related to your yearlong project), smaller homework assignments, and in-class activities. Individual is mostly comprised of quizzes and smaller homework assignments, as well as a smaller scale individual project. 
+Coursework in _UX Design_ can be divided most neatly into two categories: group and individual work. Group work includes things like labs (mostly related to your yearlong project), smaller homework assignments, and in-class activities. Individual is mostly comprised of quizzes and smaller homework assignments, as well as a smaller scale individual project. 
 
 If you complete the weekly labs in a timely fashion, the only work necessary to complete the final submission of your group's yearlong project will be to nicely package all of you and your team's work in a professional looking website and deliver a short presentation of your project to the class. 
 
